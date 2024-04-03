@@ -22,8 +22,8 @@ Visual components and Python
 ## Program:
 
 ```
-Developed by : Priyanka.A
-Register number : 212222230113
+Developed by : Kishore M.
+Register number : 212223040100
 
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
@@ -66,5 +66,8 @@ print("----------------------------------------------------------------------")
 
 ## Output:
 
+![image](https://github.com/kishore-2506/Open-Jacson-Networks/assets/165657398/d4a9c408-fa3e-42cb-8fa6-0db67ee7d8a7)
 
-## Result
+## Result:
+
+
